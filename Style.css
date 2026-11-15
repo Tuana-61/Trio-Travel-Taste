@@ -253,6 +253,9 @@ nav a:focus-visible{
     padding: 15px;
 }
 
+.land-blok.omgekeerd {
+    flex-direction: row-reverse;
+}
 
 .land-blok img{
     width: 40%;
